@@ -1,0 +1,10 @@
+Additional Features
+
+Feature #1
+We added dropout layers to our CNN input model layer. This resulted in a solid in accuracy for our model by about $10,000
+
+Feature #2
+Our second additional feature, we changed to price range from 100k-900k to 0-800k. After taking a closer look at the spread of houses between the price ranges, we saw the a majority of the houses were within this price range. Afterwards we decided to filter out the zipcodes that did not have enough houses within them from our new price range. 
+
+
+These are the two additional features that we added for this project.
